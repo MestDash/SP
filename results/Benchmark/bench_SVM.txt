@@ -1,0 +1,6 @@
+Benchmark run using K = 23, C = 1 and gamma = 0.5
+ACC		SEN		PPV		MCC
+0.971	0.876	0.845	0.844
+Confusion matrix
+TN		FP		FN		TP
+1863	35		27		191

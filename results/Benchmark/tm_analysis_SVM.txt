@@ -1,0 +1,34 @@
+# sp|O22267|CKI1_ARATH Number of predicted TMRs: 2
+sp|O22267|CKI1_ARATH	TMhelix	14	32
+# sp|Q08357|S20A2_HUMAN Number of predicted TMRs: 12
+sp|Q08357|S20A2_HUMAN	TMhelix	9	27
+# sp|Q6PIU2|NCEH1_HUMAN Number of predicted TMRs: 1
+sp|Q6PIU2|NCEH1_HUMAN	TMhelix	12	21
+# sp|Q8BUX5|RHBG_MOUSE Number of predicted TMRs: 12
+sp|Q8BUX5|RHBG_MOUSE	TMhelix	11	31
+# sp|Q9JHL0|NTAL_MOUSE Number of predicted TMRs: 1
+sp|Q9JHL0|NTAL_MOUSE	TMhelix	7	27
+# sp|P93286|CCMFC_ARATH Number of predicted TMRs: 6
+sp|P93286|CCMFC_ARATH	TMhelix	7	26
+# sp|Q20591|VA0E_CAEEL Number of predicted TMRs: 2
+sp|Q20591|VA0E_CAEEL	TMhelix	4	25
+# sp|O02300|NTR1_CAEEL Number of predicted TMRs: 7
+sp|O02300|NTR1_CAEEL	TMhelix	44	69
+# sp|O79550|ATP8_LYCSM Number of predicted TMRs: 1
+sp|O79550|ATP8_LYCSM	TMhelix	14	23
+# sp|O93956|PALI_EMENI Number of predicted TMRs: 4
+sp|O93956|PALI_EMENI	TMhelix	10	25
+# sp|Q08157|YOL19_YEAST Number of predicted TMRs: 4
+sp|Q08157|YOL19_YEAST	TMhelix	7	28
+# sp|A6NC51|T150B_HUMAN Number of predicted TMRs: 6
+sp|A6NC51|T150B_HUMAN	TMhelix	7	24
+# sp|P48904|NU2M_CYACA Number of predicted TMRs: 2
+sp|P48904|NU2M_CYACA	TMhelix	22	42
+# sp|Q03193|YD090_YEAST Number of predicted TMRs: 7
+sp|Q03193|YD090_YEAST	TMhelix	7	27
+# sp|Q9MJC0|ATP8_ARBLI Number of predicted TMRs: 1
+sp|Q9MJC0|ATP8_ARBLI	TMhelix	10	26
+# sp|Q8VHW8|CCG5_RAT Number of predicted TMRs: 4
+sp|Q8VHW8|CCG5_RAT	TMhelix	9	30
+# sp|Q8VIM4|BSND_MOUSE Number of predicted TMRs: 2
+sp|Q8VIM4|BSND_MOUSE	TMhelix	9	27

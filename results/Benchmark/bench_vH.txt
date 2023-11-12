@@ -1,0 +1,8 @@
+Threshold = 8.898
+Number of input sequences: 2116
+Confusion matrix:  
+TN		FP		FN		TP
+1820	78		68		150
+Precision: 0.6578947368421053
+Accuracy: 0.9310018903591682
+MCC: 0.6343035069467576

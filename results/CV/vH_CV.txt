@@ -1,0 +1,65 @@
+Optimization set: subset1
+Number of input sequences: 1694
+Optimal threshold: 8.180816950846483
+
+Validation set: subset2
+Number of input sequences: 1696
+Confusion matrix:  
+TN		FP		FN		TP
+1442	78		33		143
+Precision: 0.6470588235294118
+Accuracy: 0.9345518867924528
+MCC: 0.689565860320976
+
+Optimization set: subset2
+Number of input sequences: 1696
+Optimal threshold: 9.188590710114896
+
+Validation set: subset3
+Number of input sequences: 1698
+Confusion matrix:  
+TN		FP		FN		TP
+1467	56		63		112
+Precision: 0.6666666666666666
+Accuracy: 0.9299175500588928
+MCC: 0.6142595075166846
+
+Optimization set: subset3
+Number of input sequences: 1698
+Optimal threshold: 8.763273826605197
+
+Validation set: subset4
+Number of input sequences: 1691
+Confusion matrix:  
+TN		FP		FN		TP
+1451	66		41		133
+Precision: 0.6683417085427136
+Accuracy: 0.9367238320520402
+MCC: 0.6796853844230054
+
+Optimization set: subset4
+Number of input sequences: 1691
+Optimal threshold: 8.380403701331808
+
+Validation set: subset5
+Number of input sequences: 1692
+Confusion matrix:  
+TN		FP		FN		TP
+1432	85		35		140
+Precision: 0.6222222222222222
+Accuracy: 0.9290780141843972
+MCC: 0.6672060319065318
+
+Optimization set: subset5
+Number of input sequences: 1692
+Optimal threshold: 9.979385467523636
+
+Validation set: subset1
+Number of input sequences: 1694
+Confusion matrix:  
+TN		FP		FN		TP
+1487	32		57		118
+Precision: 0.7866666666666666
+Accuracy: 0.9474616292798111
+MCC: 0.699821999173908
+
